@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tv-shows/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tv-shows/static/js/main.98a7b9f8.chunk.js",
+    "main.js.map": "/tv-shows/static/js/main.98a7b9f8.chunk.js.map",
+    "runtime-main.js": "/tv-shows/static/js/runtime-main.0e26ded9.js",
+    "runtime-main.js.map": "/tv-shows/static/js/runtime-main.0e26ded9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/tv-shows/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d868dab5.chunk.js": "/tv-shows/static/js/2.d868dab5.chunk.js",
+    "static/js/2.d868dab5.chunk.js.map": "/tv-shows/static/js/2.d868dab5.chunk.js.map",
+    "index.html": "/tv-shows/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/tv-shows/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tv-shows/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d868dab5.chunk.js.LICENSE.txt": "/tv-shows/static/js/2.d868dab5.chunk.js.LICENSE.txt",
+    "static/media/brooklyn-99.a873de97.png": "/tv-shows/static/media/brooklyn-99.a873de97.png",
+    "static/media/logo.4f5fd7c0.svg": "/tv-shows/static/media/logo.4f5fd7c0.svg",
+    "static/media/modernfamily.ce6e8377.png": "/tv-shows/static/media/modernfamily.ce6e8377.png",
+    "static/media/thecrown.1ea039db.png": "/tv-shows/static/media/thecrown.1ea039db.png",
+    "static/media/theflash.2aec68a7.png": "/tv-shows/static/media/theflash.2aec68a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e26ded9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d868dab5.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.98a7b9f8.chunk.js"
+  ]
+}
