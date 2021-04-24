@@ -12,6 +12,7 @@ function About() {
         width: 60%;
         margin: auto;
         padding-top: 100px;
+        padding-bottom: 30px;
 
         @media screen and (max-width: 1000px) {
             width: 75%;
