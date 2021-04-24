@@ -4,7 +4,7 @@ import styled from 'styled-components';
 function About() {
     const Section = styled.section`
         background-color: #1e3550;
-        height: 100vh;
+        min-height: 100vh;
         color: #fff;
     `
 
@@ -15,6 +15,7 @@ function About() {
 
         @media screen and (max-width: 1000px) {
             width: 75%;
+            padding-top: 70px;
         }
     `
 
