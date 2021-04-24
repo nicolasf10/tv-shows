@@ -12,8 +12,8 @@ function App() {
       <div className="App">
         <Nav />
         <Switch>
-          <Route path={process.env.PUBLIC_URL + '/'} exact component={Home}/>
-          <Route path={process.env.PUBLIC_URL + '/about'} exact component={About}/>
+          <Route path='/tv-shows/' exact component={Home}/>
+          <Route path='/tv-shows/about' exact component={About}/>
         </Switch>
       </div>
     </Router>

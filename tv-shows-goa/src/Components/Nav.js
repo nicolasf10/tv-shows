@@ -20,7 +20,7 @@ function Nav() {
         <>
         <Navbar bg="dark" variant="dark" expand="lg">
             <Navbar.Brand>
-                <Link to={process.env.PUBLIC_URL + '/'} style={noLinkStyle}>
+                <Link to='/tv-shows/' style={noLinkStyle}>
                     <img
                         alt=""
                         src={logo}
@@ -32,7 +32,7 @@ function Nav() {
                 </Link>
             </Navbar.Brand>
             <Navbar.Text style={navTextStyle}>
-                <Link to={process.env.PUBLIC_URL + '/about'}>
+                <Link to='/tv-shows/about'>
                     About
                 </Link>
             </Navbar.Text>
