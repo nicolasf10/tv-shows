@@ -6,13 +6,13 @@ function About() {
         background-color: #1e3550;
         min-height: 100vh;
         color: #fff;
+        padding-bottom: 30px;
     `
 
     const Container = styled.div`
         width: 60%;
         margin: auto;
         padding-top: 100px;
-        padding-bottom: 30px;
 
         @media screen and (max-width: 1000px) {
             width: 75%;
