@@ -1,4 +1,4 @@
-# tv-shows
+# TV Shows - Final GOA Project | Nicolas Fuchs
 Hello! My name is *Nicolas Fuchs*, and this is my GOA final project (CSII: ANALYZING DATA WITH PYTHON). On this website, you’ll be able to see two main pages containing data visualizations for the popularity and location of Tweets related to multiple TV Shows. The data displayed was gathered using Twitter’s API, and the visualizations with the Bokeh library. (Note: Some shows had to be removed as they didn’t have very unique names, so, otherwise, Tweets about other topics would be be considered in the data set.)
 
 Visualizations
