@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/tv-shows/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/tv-shows/static/js/main.1a8a9f5b.chunk.js",
-    "main.js.map": "/tv-shows/static/js/main.1a8a9f5b.chunk.js.map",
+    "main.js": "/tv-shows/static/js/main.b2271bfb.chunk.js",
+    "main.js.map": "/tv-shows/static/js/main.b2271bfb.chunk.js.map",
     "runtime-main.js": "/tv-shows/static/js/runtime-main.0e26ded9.js",
     "runtime-main.js.map": "/tv-shows/static/js/runtime-main.0e26ded9.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/tv-shows/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d868dab5.chunk.js": "/tv-shows/static/js/2.d868dab5.chunk.js",
-    "static/js/2.d868dab5.chunk.js.map": "/tv-shows/static/js/2.d868dab5.chunk.js.map",
+    "static/js/2.91a5a9b0.chunk.js": "/tv-shows/static/js/2.91a5a9b0.chunk.js",
+    "static/js/2.91a5a9b0.chunk.js.map": "/tv-shows/static/js/2.91a5a9b0.chunk.js.map",
     "index.html": "/tv-shows/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/tv-shows/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.9d5b29c0.chunk.css.map": "/tv-shows/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d868dab5.chunk.js.LICENSE.txt": "/tv-shows/static/js/2.d868dab5.chunk.js.LICENSE.txt",
+    "static/js/2.91a5a9b0.chunk.js.LICENSE.txt": "/tv-shows/static/js/2.91a5a9b0.chunk.js.LICENSE.txt",
     "static/media/brooklyn-99.a873de97.png": "/tv-shows/static/media/brooklyn-99.a873de97.png",
     "static/media/logo.4f5fd7c0.svg": "/tv-shows/static/media/logo.4f5fd7c0.svg",
     "static/media/modernfamily.ce6e8377.png": "/tv-shows/static/media/modernfamily.ce6e8377.png",
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.0e26ded9.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d868dab5.chunk.js",
+    "static/js/2.91a5a9b0.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.1a8a9f5b.chunk.js"
+    "static/js/main.b2271bfb.chunk.js"
   ]
 }
